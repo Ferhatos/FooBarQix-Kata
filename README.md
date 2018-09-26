@@ -1,5 +1,5 @@
 # FooBarQix-Kata
-##Kata Java 8 - Printing patterns from integers range
+## Kata Java 8 - Printing patterns from integers range
 
 Using Maven & JUnit
 
